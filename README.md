@@ -61,3 +61,5 @@ Found a bug or have an idea? Open an issue on any of my repos, or send a pull re
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 
 </div>
+
+<!-- scratch -->
