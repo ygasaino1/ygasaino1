@@ -58,7 +58,7 @@
 
 ### 🤝 Let's connect
 
-Found a bug or have an idea? Open an issue on any of my repos, or send a pull request. All of them are public.
+Found a bug or have an idea? All repos above are open for contributions. Open an issue on any of my repos, or send a pull request. All of them are public.
 
 <div align="center">
 
