@@ -52,6 +52,10 @@
 
 </div>
 
+### 🔗 Quick links
+
+[tg-ai-secretary](https://github.com/ygasaino1/tg-ai-secretary) · [sub-gate](https://github.com/ygasaino1/sub-gate) · [awg-warp](https://github.com/ygasaino1/awg-warp) · [mail-frontend](https://github.com/ygasaino1/mail-frontend)
+
 ### 🤝 Let's connect
 
 Found a bug or have an idea? Open an issue on any of my repos, or send a pull request. All of them are public.
