@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+ygasaino1+%F0%9F%91%8B;Cloudflare+Workers+%7C+Telegram+bots+%7C+small+useful+tools;Building+serverless+things+that+just+work" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+YuNo1+%F0%9F%91%8B;Cloudflare+Workers+%7C+Telegram+bots+%7C+small+useful+tools;Building+serverless+things+that+just+work" alt="Typing intro" />
 
 <p>
   <img src="https://img.shields.io/github/followers/ygasaino1?style=for-the-badge&logo=github&color=58a6ff" />
